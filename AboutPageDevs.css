@@ -1,0 +1,30 @@
+/*
+Arthur Antoine Price this my website 6/22/2022
+*/
+.circle
+{
+ float:right;
+ border-style: solid;
+ width: 200;
+ border-color:  rgba(63, 4, 75, 0.993);
+ border-radius: 140px;
+ padding: 5px;
+ margin:15px;
+}
+#box
+{
+  
+  color:hsla(0, 0%, 100%, 0.527);
+  border-radius:30px;
+  padding:4%;
+}
+img
+{
+ border-radius:140px;
+ 
+}
+#page
+{
+    text-align:center;
+
+}
