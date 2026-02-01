@@ -7,12 +7,6 @@ c.fillStyle="green";
 c.fillRect(40,30,50,40);
 console.log(canvas);
 */
-let txt="";
-for (let i = 0; i<=20;i++) {
 
- txt = i+"<br>";
- console.log(txt);
- document.getElementById("game").innerHTML = txt;
-
-}
+console.log("Make a snake game and list of games")
 
