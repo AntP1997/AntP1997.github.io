@@ -10,7 +10,12 @@
   border-radius:15px ;
   box-shadow:5px 5px 30px 7px #5c04cfe1;
 }
+#intro
+{
 
+   color:Green;
+
+  }
 hr.one
 {
  border:none;
