@@ -8,5 +8,5 @@ c.fillRect(40,30,50,40);
 console.log(canvas);
 */
 
-console.log("Make a snake game and list of games")
+document.writeln("Make a snake game and list of games");
 

@@ -45,7 +45,7 @@ ul
   top:10px;
   border-radius: 10px;
   overflow:hidden;
-  background:linear-gradient(to right,rgba(0, 172, 9, 0.596),rgba(143, 15, 15, 0.726),rgba(91, 3, 255, 0.589));
+  background:linear-gradient(to right,rgba(1, 250, 13, 0.596),rgba(255, 0, 0, 0.726),rgba(3, 255, 37, 0.589));
   background-size: cover;
 }
 
