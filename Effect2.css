@@ -20,7 +20,7 @@ hr.one
 {
  border:none;
  height:20px;
- background:rgba(255, 0, 55, 0.24);
+ background:rgba(255, 8, 0, 0.747);
 }
 
 
@@ -81,7 +81,7 @@ li
 
 .active
 {
-  background:rgba(13, 233, 5, 0.822);
+  background:rgb(5, 233, 233);
   color:rgb(255, 255, 255);
   border-radius: 10px;
 }
