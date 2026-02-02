@@ -13,14 +13,14 @@
 #intro
 {
 
-   color:Green;
+   color:rgb(2, 250, 2);
 
   }
 hr.one
 {
  border:none;
  height:20px;
- background:rgba(255, 8, 0, 0.747);
+ background:rgb(208, 255, 0);
 }
 
 
